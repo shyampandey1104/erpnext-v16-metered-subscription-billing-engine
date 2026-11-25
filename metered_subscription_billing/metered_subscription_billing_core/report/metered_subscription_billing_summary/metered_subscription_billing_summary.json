@@ -1,0 +1,12 @@
+{
+ "add_total_row": 1,
+ "columns": [],
+ "creation": "2026-04-01 10:00:00.000000",
+ "doctype": "Report",
+ "is_standard": "Yes",
+ "module": "Metered_Subscription_Billing_Core",
+ "name": "ERPNext v16 Metered Subscription & Usage-Based Billing Summary",
+ "ref_doctype": "ERPNext v16 Metered Subscription & Usage-Based Billing Entry",
+ "report_name": "ERPNext v16 Metered Subscription & Usage-Based Billing Summary",
+ "report_type": "Script Report"
+}

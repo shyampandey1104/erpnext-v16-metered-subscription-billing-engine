@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include metered_subscription_billing *.css
+recursive-include metered_subscription_billing *.csv
+recursive-include metered_subscription_billing *.html
+recursive-include metered_subscription_billing *.ico
+recursive-include metered_subscription_billing *.js
+recursive-include metered_subscription_billing *.json
+recursive-include metered_subscription_billing *.md
+recursive-include metered_subscription_billing *.png
+recursive-include metered_subscription_billing *.py
+recursive-include metered_subscription_billing *.svg
+recursive-include metered_subscription_billing *.txt
+recursive-exclude metered_subscription_billing *.pyc
